@@ -6,7 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/department-service/department-service/department-service.iml" filepath="$PROJECT_DIR$/department-service/department-service/department-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/employee-service/employee-service/employee-service.iml" filepath="$PROJECT_DIR$/employee-service/employee-service/employee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-real-world-project/kafka-consumer-database/kafka-consumer-database.iml" filepath="$PROJECT_DIR$/springboot-kafka-real-world-project/kafka-consumer-database/kafka-consumer-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-real-world-project/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/springboot-kafka-real-world-project/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-real-world-project/springboot-kafka-real-world-project.iml" filepath="$PROJECT_DIR$/springboot-kafka-real-world-project/springboot-kafka-real-world-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-tutorial/springboot-kafka-tutorial.iml" filepath="$PROJECT_DIR$/springboot-kafka-tutorial/springboot-kafka-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-tutorial/springboot-rabbitmq-tutorial.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-tutorial/springboot-rabbitmq-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-restful-webservices/springboot-restful-webservices.iml" filepath="$PROJECT_DIR$/springboot-restful-webservices/springboot-restful-webservices.iml" />
     </modules>
   </component>

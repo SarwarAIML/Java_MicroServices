@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-kafka-real-world-project/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-restful-webservices/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq-tutorial/pom.xml" />
       </list>
     </option>
   </component>

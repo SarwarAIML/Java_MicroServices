@@ -7,9 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="kafka-consumer-database" />
         <module name="department-service" />
         <module name="api-gateway" />
+        <module name="springboot-kafka-tutorial" />
+        <module name="kafka-producer-wikimedia" />
         <module name="service-registry" />
+        <module name="springboot-rabbitmq-tutorial" />
         <module name="employee-service" />
       </profile>
       <profile name="Annotation profile for springboot-restful-webservices" enabled="true">
@@ -33,6 +37,8 @@
       <module name="kafka-producer-wikimedia" target="17" />
       <module name="service-registry" target="17" />
       <module name="springboot-kafka-real-world-project" target="11" />
+      <module name="springboot-kafka-tutorial" target="11" />
+      <module name="springboot-rabbitmq-tutorial" target="17" />
       <module name="springboot-restful-webservices" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -44,6 +50,8 @@
       <module name="kafka-consumer-database" options="-parameters" />
       <module name="kafka-producer-wikimedia" options="-parameters" />
       <module name="service-registry" options="-parameters" />
+      <module name="springboot-kafka-tutorial" options="-parameters" />
+      <module name="springboot-rabbitmq-tutorial" options="-parameters" />
       <module name="springboot-restful-webservices" options="-parameters" />
     </option>
   </component>
